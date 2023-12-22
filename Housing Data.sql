@@ -123,18 +123,18 @@ Set SoldAsVacant=
 -- Remove Duplicates CTE 
 With RowNumCTE 
 AS(
-	Select*, 
-		ROW_NUMBER() 
-		Over(
-			Partition by ParcelID,
-			PropertyAddress,
-			SalePrice,
-			SaleDate,
-			LegalReference
-			Order by
-			UniqueID
-		) Row_num
-	From Housing.dbo.[Nashville Housing]
+Select*, 
+	ROW_NUMBER() 
+	Over(
+		Partition by ParcelID,
+		PropertyAddress,
+		SalePrice,
+		SaleDate,
+		LegalReference
+		Order by
+		UniqueID
+	) Row_num
+From Housing.dbo.[Nashville Housing]
 )
 
 Delete
