@@ -6,7 +6,7 @@
 
 **Housing**
 
---Nashville: https://github.com/AlexTheAnalyst/PortfolioProjects/raw/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning%20(reuploaded).xlsx
+--Nashville:(https://shorturl.at/KMSX1)
 
 **FRED**
 
