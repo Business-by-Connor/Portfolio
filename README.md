@@ -6,7 +6,7 @@
 
 **Housing**
 
---Nashville:(https://shorturl.at/KMSX1)
+--Nashville: https://shorturl.at/KMSX1
 
 **FRED**
 
