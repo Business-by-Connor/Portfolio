@@ -9,7 +9,7 @@
 
 ## Housing
 
--- Nashville: https://shorturl.at/KMSX1
+-- Nashville: https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data?resource=download
 
 ## FRED
 
